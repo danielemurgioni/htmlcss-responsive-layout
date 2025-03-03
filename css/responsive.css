@@ -18,4 +18,8 @@
     main{
         padding: 50px;
     }
+
+    .recipe-name span{
+        display:inline;
+    }
 }
