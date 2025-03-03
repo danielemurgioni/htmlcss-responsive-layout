@@ -22,4 +22,8 @@
     .recipe-name span{
         display:inline;
     }
+
+    .recipe-name {
+        font-size: 30px;
+    }
 }
