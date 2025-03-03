@@ -43,4 +43,10 @@
     .social-networks .btn{
         width: calc(100% / 5);
     }
+
+    .clearfix img{
+        display: inline-block;
+        float: left;
+        margin-right: 5px;
+    }
 }
