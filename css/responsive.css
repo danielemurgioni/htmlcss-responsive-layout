@@ -62,4 +62,8 @@
     .recipe-card{
         display: flex;
     }
+
+    .social-networks .label{
+        display: inline-block;
+    }
 }
