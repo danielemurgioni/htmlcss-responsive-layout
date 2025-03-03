@@ -1,11 +1,17 @@
 /* Soluzione qui */
 
-@media screen and (min-width: 480px){
+@media screen and (min-width: 360px){
     .recipe-video img{
         max-width: 100%;
     }
 
     .recipe-info{
-        margin-top: 60px;
+        margin-top: 80px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    #topbar{
+        justify-content: flex-start;
     }
 }
