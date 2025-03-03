@@ -54,4 +54,8 @@
     .recipe-name {
         font-size: 45px;
     }
+
+    .quick-notes ul{
+        display: block;
+    }
 }
