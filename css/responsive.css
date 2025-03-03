@@ -58,4 +58,8 @@
     .quick-notes ul{
         display: block;
     }
+
+    .recipe-card{
+        display: flex;
+    }
 }
