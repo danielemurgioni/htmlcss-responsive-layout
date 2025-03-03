@@ -1,1 +1,11 @@
 /* Soluzione qui */
+
+@media screen and (min-width: 480px){
+    .recipe-video img{
+        max-width: 100%;
+    }
+
+    .recipe-info{
+        margin-top: 60px;
+    }
+}
