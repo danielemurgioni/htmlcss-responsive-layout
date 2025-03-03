@@ -26,4 +26,17 @@
     .recipe-name {
         font-size: 30px;
     }
+    
+    .quick-notes ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes ul li{
+        margin-right: 40px;
+    }
+
+    .quick-notes ul li:nth-child(4){
+        margin-right: 35px;
+    }
 }
