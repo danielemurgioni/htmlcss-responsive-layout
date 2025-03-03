@@ -66,4 +66,8 @@
     .social-networks .label{
         display: inline-block;
     }
+
+    .ads{
+        display: block;
+    }
 }
